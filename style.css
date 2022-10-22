@@ -109,6 +109,11 @@ main p {
   animation: rightcenter 700ms 350ms backwards;
 }
 
+img:hover {
+  transform: scale(1.10);
+  opacity: 0.8;
+  cursor: pointer;
+}
 
 .card h2 {
   position: absolute;
